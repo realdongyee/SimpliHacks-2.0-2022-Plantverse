@@ -15,3 +15,9 @@ can do to protect endangered species and guides on how to grow plants
 of their own in real life. Over time, the user would grow and expand 
 their virtual garden, learn more about different species of plants, 
 and act to protect the environment in real life.
+
+
+
+To try out our project, please see the Axure link in our devpost.
+We also used javascript framework to code our project in Axure, however,
+Axure does not seem to have the option to export said code.
